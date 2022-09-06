@@ -6,3 +6,4 @@ Peaches
 Pears
 Carrots
 Cake
+rice
